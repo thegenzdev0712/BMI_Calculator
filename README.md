@@ -36,3 +36,7 @@ settings.gradle.kts
 ```
 ## 📺 Watch Tutorial
 [YT link](https://youtu.be/NZCoIHNuORA)
+
+## 📜 License
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).  
+See the [LICENSE](LICENSE) file for details.
